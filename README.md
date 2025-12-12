@@ -1,43 +1,60 @@
-```bash
-oguzhan@debian:~$ whoami
-> MIS Student @ Anadolu University
-> Python Automation Developer
-> Linux Enthusiast (Debian/XFCE)
+# Hi, I'm Oğuzhan! 👋
 
-oguzhan@debian:~$ cat ~/motto.txt
-"Minimal. Practical. Worth Sharing."
+<p align="left">
+  <em>Management Information Systems (MIS) Student & Python Developer.</em>
+</p>
 
-oguzhan@debian:~$ ls -la ~/skills/
-total 16
-drwxr-xr-x 2 oguzhan users 4096 Dec 2025 .
-drwxr-xr-x 5 oguzhan users 4096 Dec 2025 ..
--rwxr-xr-x 1 oguzhan users  512 Dec 2025 python_automation.py
--rwxr-xr-x 1 oguzhan users  256 Dec 2025 bash_scripting.sh
--rw-r--r-- 1 oguzhan users  128 Dec 2025 linux_administration.md
--rw-r--r-- 1 oguzhan users   64 Dec 2025 git_version_control.log
+I focus on building lightweight automation tools, optimizing operational workflows, and designing maintainable Linux-based systems.
 
-oguzhan@debian:~$ ./list_projects.sh --active
----------------------------------------------------
-PROJECT: AutoFiler (v1.0)
-TYPE:    Automation Tool / CLI
-STACK:   Python
-LINK:    https://github.com/kuscadev/autofiler
-DESC:    Automated directory cleaner using dynamic paths.
----------------------------------------------------
-PROJECT: QuickLinks
-TYPE:    Web / Startpage
-STACK:   HTML, CSS
-LINK:    https://github.com/kuscadev/QuickLinks
-DESC:    Minimal landing page for personal links.
----------------------------------------------------
+---
 
-oguzhan@debian:~$ ping -c 3 kusca.dev
-PING kusca.dev (127.0.0.1) 56(84) bytes of data.
-64 bytes from linkedin: https://linkedin.com/in/oguzhankusca
-64 bytes from email:    mailto:oguzhankusca@outlook.com
-64 bytes from website:  https://kusca.dev
+### 🚀 What I Do
 
---- kusca.dev ping statistics ---
-3 packets transmitted, 3 received, 0% packet loss
+- 🐍 Developing system automations and CLI tools with **Python**.
+- 🐧 Working on system administration and bash scripting on **Linux (Debian)**.
+- ✍️ Writing technical guides and MIS insights on **Medium**.
+- 🎓 Digitizing business processes with an **MIS** perspective.
+- 📊 Analyzing workflows and translating operational needs into technical solutions.
 
-oguzhan@debian:~$ # © 2025 kusca.dev - Minimal. Practical. Worth Sharing.
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+### 📝 Latest Blog Posts
+
+➡️ [Read all posts on my Medium profile](https://medium.com/@kuscadev) *(Note: Content is primarily in Turkish 🇹🇷)*
+
+---
+
+### 🔧 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[AutoFiler](https://github.com/kuscadev/autofiler)** | A lightweight Python automation tool that instantly organizes messy directories into categorized subfolders based on file extensions.  | `Python` `Cron` |
+| **[QuickLinks](https://github.com/kuscadev/QuickLinks)** | QuickLinks is a simple browser start page that allows you to quickly access your frequently used websites. It is built using HTML and CSS. The project enables users to organize and customize their links. | `HTML` `CSS` |
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/oguzhankusca" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kuscadev@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>Minimal. Practical. Worth Sharing.</i></p> 
