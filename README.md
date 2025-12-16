@@ -34,8 +34,6 @@ I focus on building lightweight automation tools, optimizing operational workflo
 ### 📝 Latest Blog Posts
 
 #### 🇹🇷 Türkçe Yazılar
-
-#### 🇹🇷 Türkçe Yazılar
 <!-- TURKISH:START -->
 - [Distrobox ile Packet Tracer Kurulumu](https://medium.com/@kuscadev/distrobox-ile-packet-tracer-kurulumu-d52823d75b18?source=rss-9707bd9c0081------2)
 <!-- TURKISH:END -->
