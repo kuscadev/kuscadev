@@ -33,7 +33,14 @@ I focus on building lightweight automation tools, optimizing operational workflo
 
 ### 📝 Latest Blog Posts
 
-➡️ [Read all posts on my Medium profile](https://medium.com/@kuscadev) *(Note: Content is primarily in Turkish 🇹🇷)*
+#### 🇹🇷 Türkçe Yazılar
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+#### 🇬🇧 English Articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
