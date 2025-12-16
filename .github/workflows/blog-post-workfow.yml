@@ -1,0 +1,26 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      # ADIM 1: İNGİLİZCE
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "ENGLISH"
+          feed_list: "https://www.siftrss.com/f/j6XAY8PgNy"
+          max_post_count: 3
+          
+      # ADIM 2: TÜRKÇE
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "TURKISH"
+          feed_list: "https://www.siftrss.com/f/KRzWknrBwkY"
+          max_post_count: 3

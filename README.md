@@ -35,12 +35,12 @@ I focus on building lightweight automation tools, optimizing operational workflo
 
 #### 🇹🇷 Türkçe Yazılar
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:TURKISH:START -->
+<!-- BLOG-POST-LIST:TURKISH:END -->
 
 #### 🇬🇧 English Articles
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:ENGLISH:START -->
+<!-- BLOG-POST-LIST:ENGLISH:END -->
 
 ---
 
