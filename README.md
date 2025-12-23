@@ -40,7 +40,9 @@ I focus on building lightweight automation tools, optimizing operational workflo
 
 #### 🇬🇧 English Articles
 <!-- ENGLISH:START -->
-- [How to Install Cisco Packet Tracer on Linux Using Distrobox](https://medium.com/@kuscadev/how-to-install-cisco-packet-tracer-on-linux-using-distrobox-0c8c305b42a5?source=rss-9707bd9c0081------2)
+- [AutoFiler](https://kuscadev.github.io/en/projects/autofiler/)
+- [How to Install Cisco Packet Tracer on Linux Using Distrobox](https://kuscadev.github.io/en/blog/distrobox-packet-tracer-kurulumu/)
+- [QuickLinks](https://kuscadev.github.io/en/projects/quicklinks/)
 <!-- ENGLISH:END -->
 
 ---
