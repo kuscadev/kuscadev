@@ -35,9 +35,7 @@ I focus on building lightweight automation tools, optimizing operational workflo
 
 #### 🇹🇷 Türkçe Yazılar
 <!-- TURKISH:START -->
-- [AutoFiler](https://kuscadev.github.io/projects/autofiler/)
 - [Distrobox ile Cisco Packet Tracer Kurulumu](https://kuscadev.github.io/blog/distrobox-packet-tracer-kurulumu/)
-- [QuickLinks](https://kuscadev.github.io/projects/quicklinks/)
 <!-- TURKISH:END -->
 
 #### 🇬🇧 English Articles
