@@ -12,7 +12,7 @@ I focus on building lightweight automation tools, optimizing operational workflo
 
 - 🐍 Developing system automations and CLI tools with **Python**.
 - 🐧 Working on system administration and bash scripting on **Linux (Debian)**.
-- ✍️ Writing technical guides and MIS insights on **Medium**.
+- ✍️ Writing technical guides and MIS insights on [kuscadev.github.io](https://kuscadev.github.io).
 - 🎓 Digitizing business processes with an **MIS** perspective.
 - 📊 Analyzing workflows and translating operational needs into technical solutions.
 
