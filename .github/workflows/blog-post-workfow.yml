@@ -15,12 +15,12 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "ENGLISH"
-          feed_list: "https://kuscadev.github.io/en/index.xml"
+          feed_list: "https://kuscadev.github.io/en/blog/index.xml"
           max_post_count: 3
           
       # ADIM 2: TÜRKÇE
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "TURKISH"
-          feed_list: "https://kuscadev.github.io/index.xml"
+          feed_list: "https://kuscadev.github.io/blog/index.xml"
           max_post_count: 3
