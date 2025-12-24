@@ -35,6 +35,7 @@ I focus on building lightweight automation tools, optimizing operational workflo
 
 #### 🇹🇷 Türkçe Yazılar
 <!-- TURKISH:START -->
+- [Tarayıcı mı, Teknoloji Vitrini mi? Mozilla Odağını Nasıl Kaybetti?](https://kuscadev.github.io/blog/mozilla/)
 - [Distrobox ile Cisco Packet Tracer Kurulumu](https://kuscadev.github.io/blog/distrobox-packet-tracer-kurulumu/)
 <!-- TURKISH:END -->
 
