@@ -40,6 +40,7 @@ I focus on building lightweight automation tools, optimizing operational workflo
 
 #### 🇬🇧 English Articles
 <!-- ENGLISH:START -->
+- [Browser or Product Showcase? How Mozilla Lost Its Way](https://kuscadev.github.io/en/blog/mozilla/)
 - [How to Install Cisco Packet Tracer on Linux Using Distrobox](https://kuscadev.github.io/en/blog/distrobox-packet-tracer-kurulumu/)
 <!-- ENGLISH:END -->
 
