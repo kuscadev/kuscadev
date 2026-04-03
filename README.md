@@ -35,9 +35,9 @@ I focus on building lightweight automation tools, optimizing operational workflo
 
 #### 🇹🇷 Türkçe Yazılar
 <!-- TURKISH:START -->
+- [Ağ Topolojisi Nedir?](https://kuscadev.github.io/blog/ag-topolojisi/)
 - [KKP Sistemlerinin Dünü Bugünü Yarını](https://kuscadev.github.io/blog/kkp-tarihsel-gelisimi/)
 - [Minimum Ürün, Maksimum Netlik: MVP’de Gereksinim Analizinin Önemi](https://kuscadev.github.io/blog/mvp-gereksinim-analizi/)
-- [Tarayıcı mı, Teknoloji Vitrini mi? Mozilla Odağını Nasıl Kaybetti?](https://kuscadev.github.io/blog/mozilla/)
 <!-- TURKISH:END -->
 
 #### 🇬🇧 English Articles
