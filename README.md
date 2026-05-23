@@ -44,15 +44,7 @@ I come from a Computer Programming background and study Management Information S
 
 Writing about MIS, enterprise systems, Linux, and networking — in Turkish and English.
 
-#### 🇹🇷 Türkçe
-<!-- TURKISH:START -->
-<!-- TURKISH:END -->
-
-#### 🇬🇧 English
-<!-- ENGLISH:START -->
-<!-- ENGLISH:END -->
-
-→ [All posts](https://kuscadev.github.io/blog)
+→ [kuscadev.github.io](kuscadev.github.io)
 
 ---
 
