@@ -43,8 +43,7 @@ I come from a Computer Programming background and study Management Information S
 ### 📝 Blog
 
 Writing about MIS, enterprise systems, Linux, and networking — in Turkish and English.
-
-→ [kuscadev.github.io](kuscadev.github.io)
+→ [ogzk.tr](ogzk.tr)
 
 ---
 
@@ -52,7 +51,7 @@ Writing about MIS, enterprise systems, Linux, and networking — in Turkish and 
   <a href="https://www.linkedin.com/in/oguzhankusca" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://kuscadev.github.io" target="_blank">
+  <a href="https://ogzk.tr" target="_blank">
     <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=astro&logoColor=white" />
   </a>
   <a href="mailto:kuscaoguzhan@gmail.com">
